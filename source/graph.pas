@@ -1,4 +1,4 @@
-﻿program grafick;
+﻿program graph;
 
 uses crt;
 
