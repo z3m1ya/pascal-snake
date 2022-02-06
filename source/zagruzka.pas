@@ -1,5 +1,3 @@
-﻿
-
 uses crt;
 
 var a:integer;
